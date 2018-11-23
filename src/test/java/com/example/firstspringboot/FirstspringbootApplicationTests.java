@@ -12,7 +12,7 @@ public class FirstspringbootApplicationTests {
     @Test
     public void contextLoads() {
 
-        System.out.println("test2222222222222 = " + test);
+        System.out.println("test = " + test);
     }
 
 }
